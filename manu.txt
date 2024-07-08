@@ -1,1 +1,1 @@
-print("i am vaish")
+i am vais
